@@ -29,5 +29,5 @@ https://code.visualstudio.com/
 
 ### Comandos complementares:
 
-Comando para gerar arquivo de configurações do typescript. - ```npx tsc --init```
-Compilar aruivos da pasta dist com as configurações tsc previamente definidas. - ```npm tsc```
+* Comando para gerar arquivo de configurações do typescript. - ```npx tsc --init```
+* Compilar aruivos da pasta dist com as configurações tsc previamente definidas. - ```npm tsc```
