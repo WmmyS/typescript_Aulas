@@ -9,7 +9,11 @@ https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/
 
 https://code.visualstudio.com/
 
+<<<<<<< HEAD
 ### Extensões instaladas no Visual Studio Code:
+=======
+### Extenções instaladas no Visual Studio Code:
+>>>>>>> 202583a8f59dcba799e390c50399648264e9c02e
 
 * Code Runner - ``formulahendry.code-runner``
 * EsLint - ``dbaeumer.vscode-eslint``
