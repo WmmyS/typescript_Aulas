@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/WmmyS/typescript_Aulas/issues"
   },
-  "homepage": "https://github.com/WmmyS/typescript_Aulas#readme"
+  "homepage": "https://github.com/WmmyS/typescript_Aulas#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.20.0",
+    "@typescript-eslint/parser": "^5.20.0",
+    "eslint": "^8.13.0",
+    "ts-node": "^10.7.0",
+    "typescript": "^3.9.5"
+  }
 }
