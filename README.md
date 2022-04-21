@@ -1,6 +1,6 @@
 ## Curso de TypeScript
 
-### Curso: 
+### Curso:
 
 https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/
 
@@ -31,3 +31,8 @@ https://code.visualstudio.com/
 
 * Comando para gerar arquivo de configurações do typescript. - ```npx tsc --init```
 * Compilar aruivos da pasta dist com as configurações tsc previamente definidas. - ```npm tsc```
+
+### Desabilitar o eslint em arquivos
+
+ * Arquivo todo - na primeira linha do arquivo digite ```/*eslint-disable*/```
+ * Linhas -  no final da linha digite```eslint-disable-line```
