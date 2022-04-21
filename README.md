@@ -35,4 +35,4 @@ https://code.visualstudio.com/
 ### Desabilitar o eslint em arquivos
 
  * Arquivo todo - na primeira linha do arquivo digite ```/*eslint-disable*/```
- * Linhas -  no final da linha digite```eslint-disable-line```
+ * Linhas -  no final da linha digite```//eslint-disable-line```
