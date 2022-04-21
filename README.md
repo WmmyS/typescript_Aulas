@@ -35,6 +35,8 @@ https://code.visualstudio.com/
 * Compilar arquivos da pasta dist com as configurações tsc previamente definidas. - ```npx tsc```
 * Webpack gerar arquivos bundle ```npx webpack```
 * Webpack gerar arquivos em tempo real ```npx webpack -w```
+* Build de Frontend ```npm run build:frontend```
+* Build de Backend  ```npm run build:backend```
 
 ### Desabilitar o eslint em arquivos
 
