@@ -1,6 +1,8 @@
 let x = 10 //eslint-disable-line
-x = 0b1010;
-const y = 10; // Aqui estamos atribuindo o subtipo literal de const
+x = 0b1010; //eslint-disable-line
+
+// Aqui estamos atribuindo o subtipo literal de const
+const y = 10; //eslint-disable-line
 
 // Abaixo é como se estivéssemos passando o tipo literal de const também
 let b = 100 as const; //eslint-disable-line
