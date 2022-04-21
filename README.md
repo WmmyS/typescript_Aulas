@@ -30,7 +30,7 @@ https://code.visualstudio.com/
 ### Comandos complementares:
 
 * Comando para gerar arquivo de configurações do typescript. - ```npx tsc --init```
-* Compilar arquivos da pasta dist com as configurações tsc previamente definidas. - ```npm tsc```
+* Compilar arquivos da pasta dist com as configurações tsc previamente definidas. - ```npx tsc```
 
 ### Desabilitar o eslint em arquivos
 
