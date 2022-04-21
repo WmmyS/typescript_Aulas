@@ -26,11 +26,15 @@ https://code.visualstudio.com/
 * eslint - ```npm i eslint -D```
 * typescript-eslint - ```npm i @typescript-eslint/eslint-plugin@typescript-eslint/parser -D```
 * prettier - ```npm i prettier eslint-config-prettier eslint-plugin-prettier -D```
+* Webpack ```npm i webpack webpack-cli --save-dev```
+* ts-loader ```npm i ts-loader --save-dev```
 
 ### Comandos complementares:
 
 * Comando para gerar arquivo de configurações do typescript. - ```npx tsc --init```
 * Compilar arquivos da pasta dist com as configurações tsc previamente definidas. - ```npx tsc```
+* Webpack gerar arquivos bundle ```npx webpack```
+* Webpack gerar arquivos em tempo real ```npx webpack -w```
 
 ### Desabilitar o eslint em arquivos
 
