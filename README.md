@@ -26,8 +26,10 @@ https://code.visualstudio.com/
 * eslint - ```npm i eslint -D```
 * typescript-eslint - ```npm i @typescript-eslint/eslint-plugin@typescript-eslint/parser -D```
 * prettier - ```npm i prettier eslint-config-prettier eslint-plugin-prettier -D```
-* Webpack ```npm i webpack webpack-cli --save-dev```
+* webpack ```npm i webpack webpack-cli --save-dev```
 * ts-loader ```npm i ts-loader --save-dev```
+* node ```npm i @types/node -D```
+* validator ```npm i @types/validator -D```
 
 ### Comandos complementares:
 
