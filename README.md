@@ -24,7 +24,7 @@ https://code.visualstudio.com/
 * typescript - ```npm i typescript --save-dev```
 * ts-node - ```npm i ts-node -D```
 * eslint - ```npm i eslint -D```
-* typescript-eslint - ```npm i @typescript-eslint/eslint-plugin@typescript-eslint/parser -D```
+* typescript-eslint - ```npm i @typescript-eslint/eslint-plugin @typescript-eslint/parser -D```
 * prettier - ```npm i prettier eslint-config-prettier eslint-plugin-prettier -D```
 * webpack ```npm i webpack webpack-cli --save-dev```
 * ts-loader ```npm i ts-loader --save-dev```
